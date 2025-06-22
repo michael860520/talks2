@@ -21,15 +21,12 @@ class: pl-25
 
 資深軟體工程師 / 技術 Mentor<br>
 專精於前端架構與工具鏈優化<br>
-開源項目貢獻者<br>
 
 </div>
 
 <div my-10 w-min flex="~ gap-1" items-center justify-center>
   <div i-ri-github-line op50 ma text-xl/>
-  <div><a href="https://github.com/michael" target="_blank" class="border-none! font-300">michael</a></div>
-  <div i-ri-twitter-x-line op50 ma text-xl ml4/>
-  <div><a href="https://twitter.com/michael" target="_blank" class="border-none! font-300">@michael</a></div>
+  <div><a href="https://github.com/michael0520" target="_blank" class="border-none! font-300">michael</a></div>
 </div>
 
 ---
