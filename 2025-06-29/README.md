@@ -1,3 +1,3 @@
-# Vue と WebComponents で作る Agnostic UI
+# MonoRepo with OXC
 
-2025/06/13 - [v-tokyo #23](https://vuejs-meetup.connpass.com/)
+2025/06/29 - monorepo #01

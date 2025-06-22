@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "slidev",
-    "build": "slidev build --base /2025/v-tokyo/ --out ../../dist/2025/v-tokyo",
-    "export": "slidev export --per-slide --output ../2025-06-13-v-tokyo.pdf"
+    "build": "slidev build --base /2025/monorepo/ --out ../../dist/2025/monorepo",
+    "export": "slidev export --per-slide --output ../2025-06-29-monorepo.pdf"
   }
 }
